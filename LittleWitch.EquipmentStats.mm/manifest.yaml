@@ -1,6 +1,6 @@
 ﻿ModId: me.stupidcat.equipment-stats
 Name: Equipment Stats
-Version: 0.0.1
+Version: 0.0.2
 Description: Adds a localization system to Ikenfell
 Main: LittleWitch.EquipmentStats.mm.dll
 MainClass: EquipmentStats.EquipmentStats
