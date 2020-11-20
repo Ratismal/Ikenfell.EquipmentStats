@@ -4,7 +4,7 @@
 
 ## Installation
 
-Either patch with monomod (untested) or extract EquipmentStats.zip into the mods folder when using IkenFeline (recommended).
+Extract EquipmentStats.zip into the mods folder when using IkenFeline.
 
 ```
 IkenFeline

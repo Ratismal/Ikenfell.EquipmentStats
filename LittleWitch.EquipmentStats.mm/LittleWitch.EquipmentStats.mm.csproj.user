@@ -2,7 +2,8 @@
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
     <StartAction>Program</StartAction>
-    <StartProgram>C:\Users\cat\modding\ikenfell\Ikenfell.EquipmentStats\game\MONOMODDED_IkenfellWin.exe</StartProgram>
+    <StartProgram>C:\Users\cat\modding\ikenfell\Ikenfell.EquipmentStats\game\IkenFelineWin.exe</StartProgram>
     <StartWorkingDirectory>C:\Users\cat\modding\ikenfell\Ikenfell.EquipmentStats\game\</StartWorkingDirectory>
+    <StartArguments>--nosteam</StartArguments>
   </PropertyGroup>
 </Project>
